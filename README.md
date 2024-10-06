@@ -1,8 +1,6 @@
 # findMy
 
-[![junssong's 42 stats](https://badge.mediaplus.ma/darkblue/junssong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perman0519)
+[![junssong's 42 stats](https://badge.mediaplus.ma/darkblue/junssong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perman0519)
 
 ---
 
